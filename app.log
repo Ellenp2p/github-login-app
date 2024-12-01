@@ -1,0 +1,12 @@
+[2m2024-12-01T17:32:01.363687Z[0m [34mDEBUG[0m [2mgithub_login[0m[2m:[0m This is a debug message
+[2m2024-12-01T17:32:01.364000Z[0m [32m INFO[0m [2mgithub_login[0m[2m:[0m This is an info message
+[2m2024-12-01T17:32:01.364030Z[0m [33m WARN[0m [2mgithub_login[0m[2m:[0m This is a warning message
+[2m2024-12-01T17:32:01.364046Z[0m [31mERROR[0m [2mgithub_login[0m[2m:[0m This is an error message
+[2m2024-12-01T17:37:49.742051Z[0m [34mDEBUG[0m [2mgithub_login[0m[2m:[0m This is a debug message
+[2m2024-12-01T17:37:49.742333Z[0m [32m INFO[0m [2mgithub_login[0m[2m:[0m This is an info message
+[2m2024-12-01T17:37:49.742361Z[0m [33m WARN[0m [2mgithub_login[0m[2m:[0m This is a warning message
+[2m2024-12-01T17:37:49.743930Z[0m [31mERROR[0m [2mgithub_login[0m[2m:[0m This is an error message
+2024-12-01T17:41:19.607353Z DEBUG github_login: This is a debug message
+2024-12-01T17:41:19.607687Z  INFO github_login: This is an info message
+2024-12-01T17:41:19.607702Z  WARN github_login: This is a warning message
+2024-12-01T17:41:19.607711Z ERROR github_login: This is an error message
